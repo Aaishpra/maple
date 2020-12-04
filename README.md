@@ -1,2 +1,3 @@
 # maple
-Maple is a chat application used for communitcatng with your friends
+Maple is a web-chat application used for communitcatng with your friends
+Made using django.
